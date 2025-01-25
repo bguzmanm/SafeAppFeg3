@@ -1,0 +1,13 @@
+{
+  "flights": [
+    { "id": 1, "origin": "New York", "destination": "London", "price": 500 },
+    { "id": 2, "origin": "London", "destination": "Rancagua", "price": 100 },
+    { "id": 3, "origin": "New York", "destination": "Rancagua", "price": 200 }
+  ],
+  "secure-data": [
+    { "id": 1, "info": "Datos Confidenciales 1"},
+    { "id": 2, "info": "Datos Confidenciales 2"},
+    { "id": 3, "info": "Datos Confidenciales 3"},
+    { "id": 4, "info": "Datos Confidenciales 4"}
+  ]
+}
